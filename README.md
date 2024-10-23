@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’ve worked on a project to track and verify student community service with my team, CTRL+ALT+Innovate.
 
-i am proficient in these languages
+# languages I am proficient in:
 - C#
 - JavaScript
 - TypeScript
